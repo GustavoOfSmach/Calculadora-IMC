@@ -1,3 +1,3 @@
 # Calculadora-IMC
 
-Calculadora Feita com base em meus estudos em python.
+Calculadora IMC Feita com base em meus estudos em python.
